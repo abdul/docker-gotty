@@ -1,0 +1,1 @@
+# Run GoTTY commands inside a Docker container- Run GoTTY commands inside a Docker container:docker run -p 9077:8080 -it abdul/gotty [-w] /bin/bash- Open a browser at http://localhost:9077
